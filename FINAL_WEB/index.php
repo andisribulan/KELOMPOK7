@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Membuat Halaman Web </title>
+	<title>Membuat Halaman Web Tugas Final </title>
 	<!-- menghubungkan dengan file css -->
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<!-- Menghubungkan dengan file jquery -->
